@@ -3,7 +3,13 @@
 
 # --------------------
 # [Item] Type can be 
-#    key,Touch,Audio,docs,build,etc
+#    key     
+#    Touch   
+#    Audio 
+#    docs     
+#    build
+#    etc
+#
 #
 # --------------------
 # [Category] Type can be 
@@ -16,9 +22,11 @@
 #    test     (adding or refactoring tests; no production code change)
 #    chore    (updating grunt tasks etc; no production code change)
 #
+#
 # --------------------
 # [Subject] Type can be 
 # < Using a Maximum Of 50 Characters >
+#
 #
 # --------------------
 # [Description]  Type can be 
@@ -27,6 +35,7 @@
 # Closes-Bug: #1234567 'Closes-Bug' if the commit is intended to fully fix and close the bug being referenced.
 # Partial-Bug: #1234567 'Partial-Bug' if the commit is only a partial fix and more work is needed.
 # Related-Bug: #1234567 'Related-Bug' if the commit is merely related to the referenced bug.
+#
 #
 # --------------------
 
