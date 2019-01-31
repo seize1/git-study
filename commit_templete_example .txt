@@ -45,16 +45,17 @@
 # --------------------
 # Example
 #    
-# [SF550][KERNEL][SETTING][SQA][6185] Remove glove touch UI in setting menu 
-# [EF500][KERNEL][BATTEY][VOC][5235] Adjust high temperature value to 45 degree 
-# [COMMON][KERNEL][QUALCOMM][PATCH] Adjust earjeck volume adc range to 55~60 
+# [SF550][SETTING][SQA][6185] remove glove touch UI in setting menu 
+# [EF500][KERNEL][BATTEY][VOC][5235] adjust high temperature value to 45 degree 
+# [COMMON][KERNEL][QUALCOMM][PATCH] feat support for qualcomm USF QMP Phy on SDM450
 # [COMMON][FRAMEWORKS][MDM][AIRWATCH][] add ..   
 #    
 # --------------------
 
 # --------------------
 # Remember to
-#    Capitalize the subject title in the “[]”.
+#    Capitalize the title in the “[]”.
+#    Use lower case the subject in the “”.
 #    Be careful write commit message,it is listing in the release note with final result.
 #    Do not big-bang commit, Use only one commit for single feature.
 #    Do not make log message more then necessary. it's make hard to other developers.
