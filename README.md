@@ -9,28 +9,16 @@ GIT
 # Common commit message format
 #
 [PROJECT][CATEGORY][ITEM][NO] subject
-
 #[DESCRIPTION]
-
 
 # --------------------
 # [PROJECT] Type can be 
-#    COMMON,VF550,EF501 ...
 # --------------------
 # [CATEGORY] Type can be 
-#    KERNEL,FRAMWORKS,ADSP,MPSS,APPS ...
 # --------------------
 # [ITEM] Type can be 
-#    AUDIO,KEY,BATTERY,GPS ...
-#    DOCS,BUILD
-#    CTS,VTS,GMS,APPS-NAME,SECURITY
-#    FACTORY,SQA,VOC,
-#    MDM,SQA,VOC,
-#    QUALCOMM,GOOGLE,
 # --------------------
 # [NO] Issue No. 
-#
-
 # --------------------
 # "SUBJECT" can be start 
 # < Using a Maximum Of 50 Characters >
@@ -54,9 +42,6 @@ GIT
 
 # --------------------
 # Example
-#    
-# [XX550][SETTING][SQA][6185] remove glove touch UI in setting menu 
-# [XX500][KERNEL][BATTEY][VOC][5235] adjust high temperature value to 45 degree 
 # [COMMON][KERNEL][QUALCOMM][PATCH] feat support for qualcomm USF QMP Phy on SDM450
 # --------------------
 
